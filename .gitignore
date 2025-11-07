@@ -1,0 +1,9 @@
+.DS_Store
+.hugo_build.lock
+public/
+hugo-blog/public/
+hugo-blog/.DS_Store
+hugo-blog/.hugo_build.lock
+hugo_extended_*.tar.gz
+tools/
+node_modules/
