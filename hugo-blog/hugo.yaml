@@ -4,6 +4,9 @@ title: Don Bunny의 노트
 theme: hextra
 menu:
   main:
+    - name: 소개
+      pageRef: /about
+      weight: 10
     - name: 사진
       pageRef: /photos
       weight: 30
