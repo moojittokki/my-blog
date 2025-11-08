@@ -1,6 +1,6 @@
 ---
 title: 블로그를 시작하고 Cloudflare Pages를 선택한 이유 (feat. AI)
-date: 2025-02-14T10:00:00+09:00
+date: 2025-11-08T10:00:00+09:00
 description: 첫 블로그를 시작하며 Cloudflare Pages를 선택하게 된 배경과 과정, 그리고 비교했던 플랫폼을 정리했습니다.
 slug: why-i-started-blogging-with-cloudflare-pages
 tags:
