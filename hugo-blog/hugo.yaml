@@ -2,3 +2,12 @@ baseURL: https://example.org/
 languageCode: ko-kr
 title: Don Bunny의 노트
 theme: hextra
+menu:
+  main:
+    - name: 사진
+      pageRef: /photos
+      weight: 30
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
