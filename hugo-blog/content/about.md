@@ -9,4 +9,6 @@ description: Don Bunny의 자기 소개
 사진 찍는 것을 좋아합니다.
 경험을 기록하는 글쓰기 노트입니다.
 
+<img src="/images/profile.jpeg" alt="Don Bunny의 프로필 사진" style="max-width: 240px; border-radius: 12px; display: block; margin: 2rem auto 0;" />
+
 </div>
