@@ -2,6 +2,13 @@ baseURL: https://donbunny.me/
 languageCode: ko-kr
 title: Don Bunny의 노트
 theme: hextra
+params:
+  navbar:
+    logo:
+      path: /logo.png
+      dark: /logo.png
+      width: 32
+      height: 32
 menu:
   main:
     - name: 소개
