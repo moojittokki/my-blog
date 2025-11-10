@@ -11,4 +11,6 @@ description: Don Bunny의 자기 소개
 사진 찍는 것을 좋아합니다.
 경험을 기록하는 글쓰기 노트입니다.
 
+연락: <a href="mailto:rotund_grader.0x@icloud.com">rotund_grader.0x@icloud.com</a>
+
 </div>
